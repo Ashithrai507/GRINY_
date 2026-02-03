@@ -1,0 +1,7 @@
+binary_pixels.txt
+pixel_values.txt
+*.txt
+venv/
+build/
+dist/
+__pycache__/
